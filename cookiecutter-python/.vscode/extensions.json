@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "njpwerner.autodocstring",
+        "rodolphebarbanneau.python-docstring-highlighter",
+        "ms-python.vscode-pylance",
+        "kamilturek.vscode-pyproject-toml-snippets",
+        "ms-python.debugpy",
+        "charliermarsh.ruff"
+    ]
+}
