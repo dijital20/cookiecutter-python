@@ -3,5 +3,7 @@
     "package_name": "{{ cookiecutter.project_name.lower().replace(' ', '') }}",
     "version": "0.1.0",
     "author_name": "Unknown",
-    "author_email": ""
+    "author_email": "",
+    "compile_with_uv": true,
+    "initialize_git": true
 }
